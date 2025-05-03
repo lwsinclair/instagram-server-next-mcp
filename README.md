@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/duhlink-instagram-server-next-mcp-badge.png)](https://mseep.ai/app/duhlink-instagram-server-next-mcp)
+
 # Instagram MCP Server
 
 A Model Context Protocol (MCP) server for fetching Instagram posts using Chrome's existing login session.
